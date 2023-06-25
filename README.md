@@ -26,4 +26,6 @@
   ![Alt text](%D0%A1%D1%82%D0%B0%D0%BB%D0%BE.png)
 
   - _Создайте прототип низкой детализации:_
-  
+  https://wireframe.cc/HDiKuB
+
+  ![Alt text](<Прототип низкой детализации.png>)
